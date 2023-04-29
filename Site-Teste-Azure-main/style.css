@@ -1,0 +1,53 @@
+* {
+    margem: 0;
+    preenchimento: 0;
+    box-sizing: border-box;
+    texto-decoração: nenhuma;
+    estilo de lista: nenhum;
+}
+
+.html{
+    cargo: parente;
+    topo: 20%;
+}
+
+corpo {
+    cor de fundo: rgb (223, 186, 141);
+    família de fontes: Arial, Helvetica, sans-serif;
+}           
+
+cabeçalho {
+    cor: branco;
+    alinhamento de texto: centro;
+    margem: 15px;
+    tamanho da fonte: 17pt;
+}
+
+principal{
+    cor de fundo: branco;
+    alinhamento de texto: centro;
+    margem-em-linha: 35%;
+    preenchimento: 15px;
+    raio de borda: 15px;
+}                   
+
+rodapé{
+    alinhamento de texto: centro;
+    cor: branco;
+    margem: 15px;
+    tamanho da fonte: 14pt;
+}
+
+. foto{
+    largura: 200px;
+    altura: 200px;
+    raio de borda: 50%;
+    margem-fundo: 10px;
+}
+
+div#horario {
+    margem: 3px;
+    margem-fundo: 12px;
+    peso da fonte: negrito;
+    tamanho da fonte: 14pt;
+}
